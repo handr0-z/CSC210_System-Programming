@@ -1,0 +1,2 @@
+extraFile.txt was created using fopen().
+this is an extra file created for demonstration purposes.

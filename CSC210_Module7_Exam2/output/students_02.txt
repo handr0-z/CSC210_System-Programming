@@ -1,0 +1,20 @@
+8873891
+Alejandro Pantoja
+29
+Computer Science
+93.00
+1234567
+Kevin Vega
+23
+Mechanical Engineering
+87.00
+7892351
+Taylor Skibiky
+20
+Architectural Engineering
+79.00
+7898231
+Mike Jordan
+18
+Chemistry
+77.00

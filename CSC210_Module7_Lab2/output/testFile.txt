@@ -1,0 +1,6 @@
+testFile.txt was created using fopen().
+Alejandro created this program and file.
+...
+...
+!!!!----
+thats all folks!
